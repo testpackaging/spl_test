@@ -1,0 +1,8 @@
+setupRequired(validate_drp)
+setupRequired(testdata_jointcal
+setupRequired(testdata_subaru)
+setupRequired(testdata_decam)
+setupRequired(testdata_cfht)
+setupRequired(testdata_deblender)
+setupRequired(afwdata)
+#setupRequired()
