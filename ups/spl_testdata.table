@@ -1,4 +1,4 @@
-setupRequired(testdata_jointcal
+setupRequired(testdata_jointcal)
 setupRequired(testdata_subaru)
 setupRequired(testdata_decam)
 setupRequired(testdata_cfht)
